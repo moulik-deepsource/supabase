@@ -12,3 +12,6 @@ enabled = true
   ]
   plugins = ["react"]
   dialect = "typescript"
+  dependency_file_paths = [
+  "/supabase-ui/"
+  ]
